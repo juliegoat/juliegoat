@@ -1,5 +1,5 @@
 ## Hello, hello!
-### I'm Julie, Community Game Designer at Hack Club and Adjunct Professor at Pace University
+### I'm Julie, a silliness-driven developer. Building for shits and giggles primarily.
 Pronouns: She/her or they/them
 
 <img src="https://cloud-3cdpdte51-hack-club-bot.vercel.app/0julie.png" width="250">
