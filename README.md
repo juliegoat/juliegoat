@@ -1,13 +1,12 @@
 ## Hello, hello!
-### I'm Julie, a silliness-driven developer. Building for shits and giggles primarily.
+### I'm Julie, a Curriculum Engineer at MongoDB and Web Scripting Instructor at Pace University
 Pronouns: She/her or they/them
 
 <img src="https://cloud-3cdpdte51-hack-club-bot.vercel.app/0julie.png" width="250">
 
-I learned how to code without realizing it when I start messing around with myspace layouts in 8th grade. I've been diddling around ever since!
-I've recently returned to coding for fun instead of business and it's making me happy 😊 
+I love to work on silly projects, generative art, electronics projects at my makerspace, and new blogs that I never write anything for every few months.
 
-I prefer web dev, love making generative art, and write sloppy code most of the time. I care a lot about documentation, and it's one of the most important things we can do to break down the barrier to entry for the tech field. 
+Ruby on Rails was my first love, but I'm always down to learn something new
 
 <a href="https://twitter.com/juliegoat"><img src="https://www.danoneinstitute.org/wp-content/uploads/2020/06/logo-rond-twitter.png" width="50px" /></a>
 <a href="https://linkedin.com/in/julieagauthier"><img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" width="50px" /></a>
