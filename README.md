@@ -1,5 +1,5 @@
 ## Hello, hello!
-### I'm Julie, a Curriculum Engineer at MongoDB and Web Scripting Instructor at Pace University
+### I'm Julie, a Senior Curriculum Engineer at MongoDB
 Pronouns: She/her or they/them
 
 <img src="https://cloud-3cdpdte51-hack-club-bot.vercel.app/0julie.png" width="250">
